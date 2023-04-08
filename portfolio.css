@@ -314,12 +314,12 @@ h2 > i {
   align-items: center;
 }
 .contact{
-  width: 150px;
+  width: 20%;
   height: 100px;
   transition: width 0.5s ease-in-out;
 }
 .contact:hover{
-  width:300px
+  width:40%
 }
 .contact>img{
   border-radius: 5px; 
